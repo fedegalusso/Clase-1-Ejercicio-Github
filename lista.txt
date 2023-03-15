@@ -14,7 +14,7 @@ Cantera Montero, Paula  (256680)
 Cohen Oks, Alan Michel (272259)
 Escuder Castillo, Sebastian  (242739)
 Fernández Roberti, Alfredo Raúl (275898)
-Ferrari , Josefina  (268395), -> Usuario de GitHub: JosefinaFerrari
+Ferrari , Josefina  (268395) -> Usuario de GitHub: JosefinaFerrari
 Firpo González, Victoria  (267502)
 Gonzalez Buga, Federico Edison (242517)
 Gonzalez Di Maio, Santiago Daniel (238993)
