@@ -2,6 +2,7 @@ EJEMPLO:
 
 Bruno Balduccio (157967) -> Usuario de GitHub: brubaldu
 
+Juan Diego Etcheverry (252443) -> Usuario de GitHub: juandi-etcheverry
 Santiago Morón (267553) -> Usuario de GitHub: Santiago_Moron
 Santiago Cabrera (266191) -> Usuario de GitHub: SanJingSung
 Renzo Testorelli (251459) -> Usuario de GitHub: Renzo-Test
