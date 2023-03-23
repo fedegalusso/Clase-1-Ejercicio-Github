@@ -1,5 +1,5 @@
-Benítez Pablo (179924) -> Usuario de GitHub: benitezpablo
-Azor Dávila, Valentin  (220971) -> Usuario de GitHub: valepalmares
+  Benítez Pablo (179924) -> Usuario de GitHub: benitezpablo
+  Azor Dávila, Valentin  (220971) -> Usuario de GitHub: valepalmares -invitado-
   Borrás Puig, Felipe León (225715) -> Usuario de GitHub: Pepo995 -invitado-
 Busnelli Estevez, Joaquin  (222075)
 Caceres Di Palma, Gonzalo  (192112)
@@ -7,7 +7,7 @@ Calvo Gómez, Joaquín Andrés (203832)
   Cantera Morales, Maria Virginia (263112) -> Usuario de GitHub: vircm -invitada-
 Casasco Triver, Nicolás Carlos (236894)
 Cejas Paez, Santiago Ezequiel (202706)
-Chaves Ramos, María Ximena (161267) -> Usuario de GitHub:xchaves
+  Chaves Ramos, María Ximena (161267) -> Usuario de GitHub:xchaves -invitada-
   Clavijo Fusaro, Florencia  (206685) -> Usuario de GitHub> FlorClavijo -invitada-
   Cuadro Nogueira, Santiago Agustín (292896) -> Usuario de GitHub> santiagocuadro -invitado-
   Díaz Olgiatti, María Dahiana (215663) -> Usuario de GitHub: DahiiaDiaz -invitada-
@@ -20,7 +20,7 @@ Gabard Martelletti, Juan Martín (219834)
   Olariaga Brusales, Valentina Maria (232650) -> Usuario de GitHub: valentina946 -invitada-
   Olivieri Remedios, Giovanni  (205237) -> Usuario de GitHub: giovaolivieri -invitado-
 Pecoy Fernández, Nicolás Carlos (192991)
-Sosa Rippe, Chiara  (241699) -> Usuario de GitHub: chiarasosa
+  Sosa Rippe, Chiara  (241699) -> Usuario de GitHub: chiarasosa -invitada-
   Stirling Sayavedra, Joaquín Ricardo (235909) -> Usuario de GitHub: joaquinstirling -invitado-
   Valiunas Pérez, Romina Natalí (211208) -> Usuario de GitHub: rvaliunas -invitada-
   Winicki Melgendler, Igal  (251512) -> Usuario de GitHub: igalwini -invitado-
