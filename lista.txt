@@ -6,28 +6,29 @@ Arancet Iza, Facundo Cantu (210696) -> cantuccis
 Acuña Bespalko, Diego Alejandro (222675)
 Alfonso Ferraro, Santiago Ezequiel (276280)
 Andrade Arce, Mauricio Iván (270938)
-Barros Berrueta, Julieta  (219209)
-Blanco Hernández, Candelaria  (271395)
-Bocage Irazabal, Pilar  (268398)
-Briosso Posada, Felipe  (269851)
+Barros Berrueta, Julieta  (219209) -> JuliBarros
+Blanco Hernández, Candelaria  (271395) -> candeblanco
+Bocage Irazabal, Pilar  (268398) -> pilibocage
+Briosso Posada, Felipe  (269851) -> FelipeBriosso
 Cantera Montero, Paula  (256680)
 Cohen Oks, Alan Michel (272259)
-Escuder Castillo, Sebastian  (242739)
+Escuder Castillo, Sebastian  (242739) -> SpiderFuk
 Fernández Roberti, Alfredo Raúl (275898)
-Ferrari , Josefina  (268395) -> Usuario de GitHub: JosefinaFerrari
-Firpo González, Victoria  (267502)
+Ferrari , Josefina  (268395) -> JosefinaFerrari
+Firpo González, Victoria  (267502) -> vickyFirpo
 Gonzalez Buga, Federico Edison (242517)
-Gonzalez Di Maio, Santiago Daniel (238993)
+Gonzalez Di Maio, Santiago Daniel (238993) -> sGonzalez06
 Heredia Sanchez, Felipe Fabián (297297)
-Morandi Lorenzelli, Manuel  (271568)
-Praderi Dibarrart, Matias  (269403)
 Presa Olivera, Matias  (253739)
+Morandi Lorenzelli, Manuel  (271568)-> ManuelMorandi
+Praderi Dibarrart, Matias  (269403) -> matiii02
+Presa Olivera, Matias  (253739) -> D31ux3
 Rodríguez Acevedo, Federico Guillermo (255981)
 Saad Santos, Matias Nahuel (251398)
-Salinas Soto, Santiago Agustín (266628)
+Salinas Soto, Santiago Agustín (266628) -> santiago-salinas
 Tonarelli Alvarez, Fernando Roberto (243180)
-Uhalde Garcia, Nicole Ariadna (270303)
+Uhalde Garcia, Nicole Ariadna (270303) -> nuhalde
 Vázquez Barcelona, Natalia  (266986)
 Vélez Laurenza, Augusto  (266655)
-Vieira Escobar, Iara Natalia (252258)
-Visconti García, Nicolás  (285380)
+Vieira Escobar, Iara Natalia (252258) -> iara3101
+Visconti García, Nicolás  (285380) -> NicoVG12
