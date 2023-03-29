@@ -7,7 +7,7 @@ Acuña Bespalko, Diego Alejandro (222675)
 Alfonso Ferraro, Santiago Ezequiel (276280)
 Andrade Arce, Mauricio Iván (270938)
 Barros Berrueta, Julieta  (219209) -> JuliBarros
-Blanco Hernández, Candelaria  (271395)
+Blanco Hernández, Candelaria  (271395) -> candeblanco
 Bocage Irazabal, Pilar  (268398)
 Briosso Posada, Felipe  (269851) -> FelipeBriosso
 Cantera Montero, Paula  (256680)
@@ -30,5 +30,5 @@ Tonarelli Alvarez, Fernando Roberto (243180)
 Uhalde Garcia, Nicole Ariadna (270303) -> nuhalde
 Vázquez Barcelona, Natalia  (266986)
 Vélez Laurenza, Augusto  (266655)
-Vieira Escobar, Iara Natalia (252258)
+Vieira Escobar, Iara Natalia (252258) -> iara3101
 Visconti García, Nicolás  (285380) -> NicoVG12
